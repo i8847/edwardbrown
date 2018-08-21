@@ -140,3 +140,4 @@ for line in file:
 
 for line in arryStudents:
     print(line.split("^"))
+    print('\r\n')
